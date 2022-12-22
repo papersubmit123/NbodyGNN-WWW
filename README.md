@@ -3,6 +3,8 @@
 ### 0. The visualization of convergent feature evolution 
 
 ![alt text](https://github.com/papersubmit123/NbodyGNN-WWW/blob/main/figures/t_10.gif)
+
+We use t-SNE provided in the sklearn library to visualize the node features at different times $t$ on the Cora dataset. This helps us to ensure that the initialization process for the visualization is deterministic. Our observations show that the node features tend to evolve steadily as $t$ increases, and they seem to converge to some patterns after $t>3$. This is fundamentally different from some chaotic physics N-body systems. The reason has been given in the rebuttal 1.II.difference_b).
 ### 1.  The code running instructions are provided in each folder.
 
 ```
