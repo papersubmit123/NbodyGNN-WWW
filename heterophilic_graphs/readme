@@ -1,1 +1,1 @@
-
+python run_GNN.py --dataset ['cornell', wisconsin, texas]
