@@ -1,7 +1,7 @@
 # NbodyGNN-WWW
 
 ### 0. The visualization of convergent feature evolution 
-
+![alt text](https://github.com/papersubmit123/NbodyGNN-WWW/blob/main/figures/t1.png)
 
 ### 1.  The code running instructions are provided in each folder.
 
