@@ -1,1 +1,4 @@
-
+python run_GNN_cora.py --function hamgcn --dataset [Cora, Citeseer, Pubmed]
+python run_GNN_amazon.py --function hamgcn --dataset [Computers, Photo, CoauthorCS, CoauthorPHY]
+python run_GNN_ogbn.py --function hamgcn --dataset ogbn-arxiv
+Full model parameters please refer to ./log/
